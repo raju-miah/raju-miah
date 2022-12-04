@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 
 # About Me:
-🌱 I’m currently learning Next.js & Redux.js<br><br>💬 Talk to me about React, Node, JavaScript, etc.<br><br>📫 Reach me at rajumiahpollob@gmail.com<br><br>
+🌱 I’m currently learning Next.js & Redux.js<br><br>💬 Talk to me about React, Node, JavaScript, etc.<br><br>
 
 
 ## Connect With Me:
