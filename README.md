@@ -3,7 +3,7 @@
  
 <img width="100%" src="https://i.ibb.co/R0TFP2s/code-bg.gif" alt="cover" />
 </div>
-<span align="left"> [![](https://visitcount.itsvg.in/api?id=raju-miah&icon=7&color=0)](https://visitcount.itsvg.in) </span> 
+[![](https://visitcount.itsvg.in/api?id=raju-miah&icon=7&color=0)](https://visitcount.itsvg.in)
 <h1 align="center">Hi <img src = "https://i.ibb.co/dPBQ23j/hi.gif" width="50px" height="50px">, I'm Raju</h1>  
 <h3 align="center">A passionate Web Developer from BD</h3>  
 
