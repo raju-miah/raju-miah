@@ -4,9 +4,9 @@
 <img width="100%" src="https://i.ibb.co/R0TFP2s/code-bg.gif" alt="cover" />
 </div>
 ---
-[![](https://visitcount.itsvg.in/api?id=raju-miah&icon=7&color=0)](https://visitcount.itsvg.in)
-<h1 align="center">Hi <img src = "https://i.ibb.co/dPBQ23j/hi.gif" width="50px" height="50px">, I'm Raju</h1>  
-<h3 align="center">A passionate Web Developer from BD</h3>  
+(https://visitcount.itsvg.in/api?id=raju-miah&icon=7&color=0)](https://visitcount.itsvg.in)
+<h1 align="center">Hi <img src = "https://i.ibb.co/dPBQ23j/hi.gif" width="50px" height="50px">, I'm RAJU</h1>  
+<h3 align="center">A professional Web Developer from BD</h3>  
 
 <!--
 **raju-miah/raju-miah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
